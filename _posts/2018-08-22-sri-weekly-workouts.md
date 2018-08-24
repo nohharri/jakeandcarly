@@ -7,7 +7,7 @@ summary: Sri's weekly workouts
 
 The Satya Swole Program will not only help you build muscle, but burn fat quickly while also developing a level of athleticism on par with Abhi Satya. This program will develop muscles for explosive movement while helping in losing overall weight. The goal is to get you prepped and ready for the first time Carly sees you naked. You want to be at a physical standard where you're acceptable to look at and athletic where you can last for a long time.
 
-<a href="https://docs.google.com/spreadsheets/d/1KEpLTRxsb1FhSimaafJoyrz8pzhU0KKaUOsPwEgrGNw/edit#gid=1368617121" target="_blank"><button style="width: 100%; background-color: #0F9D58" padding: 10px; font-size: 20px; color: white;>Spreadsheet</button></a>
+<a href="https://docs.google.com/spreadsheets/d/1KEpLTRxsb1FhSimaafJoyrz8pzhU0KKaUOsPwEgrGNw/edit#gid=1368617121" target="_blank"><button style="width: 100%; background-color: #0F9D58" padding: 10px; font-size: 20px; color: white;">Spreadsheet</button></a>
 
 ## Requirements
 * Sleep a day without an alarm and sunlight. Track how long you slept. Use the time you sleep as a baseline understanding of how much sleep you need a night. Failure to meet your average per week results in a penalty.

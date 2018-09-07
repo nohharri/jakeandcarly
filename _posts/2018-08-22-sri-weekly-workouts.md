@@ -102,9 +102,9 @@ The Satya Swole Program will not only help you build muscle, but burn fat quickl
 * Foam roll
 
 ### Saturday - Lower Body (Hips)
-* Running - 2 mile run
+* Running - 1 mile run
 * Jump rope - 100 reps, 1-legged 50 reps each leg
-* * <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Barbell hip thrust</a> - 3 sets of 10
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Barbell hip thrust</a> - 3 sets of 10
 * <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Crab walks w/band</a> - 3 sets of 10
 * <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Monster walks w/band</a> - 3 sets of 10
 * <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Single leg deadlifts</a> - 3 sets of 10

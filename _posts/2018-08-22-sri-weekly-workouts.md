@@ -25,6 +25,70 @@ The Satya Swole Program will not only help you build muscle, but burn fat quickl
 	* Failure to get full night's sleep
 * The extra charges incurred will go to a separate fund. You can get the allotted portion back by placing first in the Satya Swole program. This fund will also be contributed by other people in the program.
 
+## Program 3 - HIIT and Time Efficient Workout (5 day program)
+### Monday - Lower body (Strength, Hamstring, hip focus)
+* Foam roll
+* Stretch
+* Running - 3 sets - 2 min. jog, 1 min. sprint (no stoppage)
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Kettlebell Squats</a> - 3 sets of 15
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Kettlebell Swing</a> - 3 sets of 15
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Split Squats</a> - 3 sets of 12
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Kettlebell Lateral Squats</a> - 3 sets of 10
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Leg curls</a> - 3 sets of 10
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Seated calf raises</a> - 3 sets of 10
+* <a href="{{ site.baseurl }}/{% link _posts/2018-08-19-workouts.md %}#squats">Standing calf raises</a> - 3 sets of 10
+* Ladder exercise - 3 steps
+* Foam roll
+
+### Tuesday
+* Foam roll
+* Rest
+
+### Wednesday - HIIT, full body, apartment gym
+* Foam roll
+* Stretch
+* Treadmill - 1 minute walk warmup, (2 minute light jog, 1 minute full out sprint)
+* Pullups 10, Pushups 20, 30 second planche, 3x - 30 second rest
+* Chin-ups 10, tricep pushdown 10, 30 second rest
+* 15 body weight jump squats, 15 burpees 3x, 30 second rest
+* Hanging crunches 10, wall sits 60 seconds, 30 second rest
+
+## Thursday 
+* Foam roll
+* Rest
+
+## Friday - HIIT, full body, apartment gym
+* Foam roll
+* Stretch
+* Treadmill - 1 minute walk warmup, (2 minute light jog, 1 minute full out sprint)
+* Pullups 10, Pushups 20, 30 second planche, 3x - 30 second rest
+* Chin-ups 10, tricep pushdown 10, 30 second rest
+* 15 body weight jump squats, 15 burpees 3x, 30 second rest
+* Hanging crunches 10, wall sits 60 seconds, 30 second rest
+
+## Saturday - Strength, Chest and Back
+* Foam roll
+* Stretch
+* Jump rope 100x, 30 second rest 3x
+* Bench Press - bar 10x, 50% 5x, 75% 5x, 100% 5x, 100% 5x, 50% 5x (Have a spotter)
+* Pullups max 3x
+* Dips max 3x
+* High or low cable chest fly (Do the one you haven't done last week) 3x
+* Seated cable row
+* Yoga ball crunches 10x, yoga ball reverse crunches 10x superset
+
+## Sunday - Hips
+* Foam roll
+* Stretch
+* 2 minute light jog, 1 minute full out spriint, 3x
+* Monster walks with band 3x
+* Crab walks with band 3x
+* Dumbbell lunges 10 reps each leg, 3x
+* Tennis/basketball drills/shootaround
+* Planches 60sec, 3x
+
+
+
 ## Program 2 - Tennis-focused Workout
 
 ### Monday - Lowey body (Strength, Hamstring, hip focus)
